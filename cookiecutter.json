@@ -1,0 +1,10 @@
+{
+    "project_name": "project_name",
+    "repo_name": "{{ cookiecutter.project_name|replace(' ', '_') }}",
+    "author_name": "Your name (or your organization/company/team)",
+    "description": "A short description of the project.",
+    "hypothesis": "Hypothesis? What hypothesis? This is a fishing exercise",
+    "data": "Path to data",
+    "year": "2018",
+    "open_source_license": ["MIT", "BSD", "CC-BY-4.0", "Not open source"]
+}
