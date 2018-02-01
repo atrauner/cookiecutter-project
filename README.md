@@ -2,7 +2,7 @@
 
 _A standardized minimal template for projects in the TB research unit at the Swiss TPH._
 
-###Important note
+#### Important note
 This template is effectively a fork of the [`cookiecutter-data-science`](https://github.com/drivendata/cookiecutter-data-science) repo put together by **drivendata**.  We wholesale buy into their philosophy as outlined on their [Project homepage](http://drivendata.github.io/cookiecutter-data-science/)
 
 
